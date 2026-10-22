@@ -8,19 +8,9 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-<h1>
-  Supp
-  <img src="https://media.giphy.com/media/3oKIPePUxr83vL7Bsc/giphy.gif" width="30px"/>
-</h1>
 </div>
 
 ---
-
-## `$ whoami`
-
-```console
-lola@phisoft:~$ whoami
-```
 
 I'm **Lola** — a full-stack developer in Kota Kinabalu, Sabah 🇲🇾.
 
@@ -34,19 +24,16 @@ I'm **Lola** — a full-stack developer in Kota Kinabalu, Sabah 🇲🇾.
 - 🇲🇾 **A local-context developer.** FPX, DuitNow, LHDN e-Invoice, Sabah state departments, MOF asset guidelines. I build for the constraints that tutorials never mention.
 - 🔍 **Allergic to "works on my machine."** Docker Compose everywhere, migrations checked in, READMEs that a new hire can actually follow.
 
-```console
-lola@phisoft:~$ cat philosophy.txt
 > Code is temporary. The business rule is forever.
 > Read the requirements doc twice. Write the migration once.
 > If it touches money, it gets a test.
 > Write the docs while you still remember why.
-```
+
 
 ---
 
-## `$ ls ~/projects`
 
-### 🎯 Things I've owned end-to-end
+### 🎯 Things I've built
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -77,8 +64,6 @@ lola@phisoft:~$ cat philosophy.txt
 | **TLC-v2 / v3** | **~35 white-labelled sports competition management repos** — football, basketball, softball, futsal, hockey, rugby, netball, sepak takraw, bowling, chess, esports, swimming, athletics and more | `TypeScript` |
 
 ---
-
-## `$ cat toolbelt.txt`
 
 <div align="center">
 
